@@ -1,0 +1,12 @@
+Servicio	VIajes		Monto Gastado
+Metro		0		0
+Cablebus		0		0
+Ecobici		0		0
+RTP		0		0
+Metrobus		0		0
+Ruta		0		0
+Tren Ligero		0		0
+Gasolina		1		0
+
+Su saldo restante es: 1850.00
+

@@ -1,0 +1,5 @@
+Cuando solicitas al usuario que añada texto con fgets. No funciona el strcmp porqué al final de la palabra hay un salto de linea, \n.
+
+Para solucionar eso hay que usar la instrucción, strtok.
+strtock(variable,"\n");
+Con esto limpiamos el salto de linea de la variable y ya funciona el strcmp.
